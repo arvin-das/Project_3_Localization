@@ -1,19 +1,19 @@
 World coordinates are on the form [X, Y, Z, 1], where the '1' is left out for this file.
 
 Pixel count: 0
-Pixel coordinates: [1 2 1]
+Pixel coordinates: [0, 0, 1]
 
 World coordinates: 
-[-0.0600235  -0.04592079  0.0142804 ]
+[-4.22047176 -3.24984129  1.        ]
 
 Pixel count: 1
-Pixel coordinates: [2 3 4]
+Pixel coordinates: [3, 0, 0]
 
 World coordinates: 
-[-0.24057807 -0.18489451  0.05711892]
+[6.03589811e+03 2.34901749e+01 1.00000000e+00]
 
 Pixel count: 2
-Pixel coordinates: [5 5 5]
+Pixel coordinates: [0. 3. 0.]
 
 World coordinates: 
-[-0.30011826 -0.23081342  0.07139941]
+[2.93921073e-01 4.63025290e+02 1.00000000e+00]
